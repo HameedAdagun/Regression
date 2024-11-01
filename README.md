@@ -1,6 +1,6 @@
 # Regression
 The goal of this project is to develop machine learning (ML) models for a regression task. I trained two ML models for regression and explored the impact
-of different hyperparameter values on the error achieved by your models. I also prepared a short .pdf report discussing your findings.
+of different hyperparameter values on the error achieved by your models. I also prepared a short .pdf report discussing my findings.
 
 A dataset called steel.csv can be seen in this repository. This dataset has been split into separate training and test sets in the Jupyter Notebook. The data is supplied in comma separated values format. Each row describes one instance in the dataset. The attributes are in columns in the following order: normalising_temperature, tempering_temperature, percent_silicon, percent_chromium, percent_copper, percent_nickel, percent_sulphur, percent_carbon, percent_manganese, tensile_strength. The goal of the regression models is to predict the value of the target attribute tensile_strength.
 
